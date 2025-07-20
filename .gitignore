@@ -1,0 +1,7 @@
+demo/.vscode/
+demo/target/demo-0.0.1-SNAPSHOT.jar
+demo/target/demo-0.0.1-SNAPSHOT.jar.original
+demo/target/maven-archiver/
+demo/target/maven-status/
+demo/target/surefire-reports/
+demo/target/test-classes/
